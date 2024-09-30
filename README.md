@@ -21,9 +21,11 @@ Já trabalhei com várias tecnologias:<br><br>
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" height=40>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height=40>
 
-<br>
-Contatos
-<br>
-Instagram: https://instagram.com/_bgab?igshid=ZDdkNTZiNTM= <br>
-Linkedin: 
+<strong>Contatos</strong>
+<br><br>
+<a href="https://instagram.com/_bgab?igshid=ZDdkNTZiNTM=">
+<img src="https://github.com/user-attachments/assets/fef5a174-8958-4400-8293-e85e8acfbdf7" height=40>
+<img width=10>
+<a href="https://instagram.com/_bgab?igshid=ZDdkNTZiNTM=">
+<img src="https://github.com/user-attachments/assets/811e0c66-82fb-4de5-b213-c0b4fa3bb5d9" height=40>
 

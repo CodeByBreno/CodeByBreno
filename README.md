@@ -26,6 +26,6 @@ Já trabalhei com várias tecnologias:<br><br>
 <a href="https://instagram.com/_bgab?igshid=ZDdkNTZiNTM=">
 <img src="https://github.com/user-attachments/assets/fef5a174-8958-4400-8293-e85e8acfbdf7" height=40>
 <img width=10>
-<a href="https://instagram.com/_bgab?igshid=ZDdkNTZiNTM=">
+<a href="https://www.linkedin.com/in/breno-gabriel-de-souza-coelho-b43565208/">
 <img src="https://github.com/user-attachments/assets/811e0c66-82fb-4de5-b213-c0b4fa3bb5d9" height=40>
 

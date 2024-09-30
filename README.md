@@ -21,3 +21,9 @@ Já trabalhei com várias tecnologias:<br><br>
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" height=40>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height=40>
 
+<br>
+Contatos
+<br>
+Instagram: https://instagram.com/_bgab?igshid=ZDdkNTZiNTM= <br>
+Linkedin: 
+

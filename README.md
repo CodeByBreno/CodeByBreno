@@ -4,7 +4,7 @@
 👨‍💻 - Atualmente trabalho como desenvolvedor back-end na startup Autocenter em Petrolina-PE/Brazil, com JS/TS e Node/Express<br>
 💻 - Também estou estudando mais sobre Flutter e React de modo independente e SwiftUI no evento HackaTruck, na minha universidade<br>
 
-Já trabalhei com várias tecnologias:<br><br>
+Já trabalhei/estudei várias tecnologias:<br><br>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=40>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height=40>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height=40>

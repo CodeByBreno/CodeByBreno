@@ -1,11 +1,18 @@
 ## Olá, me chamo Breno Gabriel e seja bem vindo ao meu perfil
+## Hi! My name is Breno Gabriel and welcome to my profile!
 
 📚 - Sou estudante de Engenharia de computação na UNIVASF (Universidade Federal do Vale do São Francisco)<br>
 👨‍💻 - Atualmente trabalho como desenvolvedor back-end na startup Autocenter em Petrolina-PE/Brazil, com JS/TS e Node/Express<br>
 🚀 - Participo de uma equipe de foguetemodelismo, a Cactus Rockets Design, onde trabalho com IoT, software e eletrônica no geral<br>
 💻 - Também estou estudando mais sobre Flutter e React de modo independente e SwiftUI no evento HackaTruck, na minha universidade<br>
 
-Já trabalhei/estudei várias tecnologias:<br><br>
+📚 - I'm pursuing a degree in Computer Engineering at UNIVASF (Federal University of the São Francisco Valley, in Brazil).<br>
+👨‍💻 - I currently work as a back-end developer at a startup called Autocenter in Petrolina-PE, Brazil, using JS/TS and Node/Express.<br>
+🚀 - I'm also part of a rocket model design team called Cactus Rockets Design at my university, where I work with IoT, software development, and electronics.<br>
+💻 - Recently, I've been studying Flutter and React independently, as well as Swift and SwiftUI through HackaTruck, an event at my university developed by the El Dorado Institute (UNICAMP) in partnership with IBM.<br>
+
+Já trabalhei/estudei várias tecnologias:<br>
+I've already worked with dozen technologies:<br><br>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=40>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height=40>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height=40>
@@ -22,7 +29,7 @@ Já trabalhei/estudei várias tecnologias:<br><br>
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" height=40>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height=40>
 
-<strong>Contatos</strong>
+<strong>Contatos/Contacts</strong>
 <br><br>
 <a href="https://instagram.com/_bgab?igshid=ZDdkNTZiNTM=">
 <img src="https://github.com/user-attachments/assets/fef5a174-8958-4400-8293-e85e8acfbdf7" height=40>

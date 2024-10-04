@@ -2,6 +2,7 @@
 
 📚 - Sou estudante de Engenharia de computação na UNIVASF (Universidade Federal do Vale do São Francisco)<br>
 👨‍💻 - Atualmente trabalho como desenvolvedor back-end na startup Autocenter em Petrolina-PE/Brazil, com JS/TS e Node/Express<br>
+🚀 - Participo de uma equipe de foguetemodelismo, a Cactus Rockets Design, onde trabalho com IoT, software e eletrônica no geral<br>
 💻 - Também estou estudando mais sobre Flutter e React de modo independente e SwiftUI no evento HackaTruck, na minha universidade<br>
 
 Já trabalhei/estudei várias tecnologias:<br><br>

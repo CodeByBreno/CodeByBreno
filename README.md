@@ -1,5 +1,4 @@
-## Olá, me chamo Breno Gabriel e seja bem vindo ao meu perfil
-## Hi! My name is Breno Gabriel and welcome to my profile!
+## Olá, me chamo Breno Gabriel e seja bem vindo ao meu perfil<br>Hi! My name is Breno Gabriel and welcome to my profile!
 
 📚 - Sou estudante de Engenharia de computação na UNIVASF (Universidade Federal do Vale do São Francisco)<br>
 👨‍💻 - Atualmente trabalho como desenvolvedor back-end na startup Autocenter em Petrolina-PE/Brazil, com JS/TS e Node/Express<br>

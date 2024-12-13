@@ -3,7 +3,7 @@
 	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
 		<picture>
 		  <source media="(min-width: 720px)" srcset="header.svg">
-		  <img src="header-mobile.svg" width="800" height="100">
+		  <img src="header-mobile.svg" width="800" height="200">
 		</picture>
 	</a>
 	<br>

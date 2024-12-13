@@ -1,6 +1,9 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<p align="center">
+	<img src="https://github.com/user-attachments/assets/8745c577-34e4-4c81-94d2-4c543e34791b" width="100%">
+	</img>
+</p>
 
-<p style="font-weight: bold; font-size: 20px">Seja bem vindo, pegue um café ☕</p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 👨‍💻 Breno Gabriel<br>
 🎓 Estudante de Engenharia de Computação - UNIVASF<br>

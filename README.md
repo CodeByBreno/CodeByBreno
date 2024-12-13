@@ -1,3 +1,16 @@
+<div align="center">
+	<br>
+	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+		<picture>
+		  <source media="(min-width: 720px)" srcset="header.svg">
+		  <img src="header-mobile.svg" width="800" height="400" alt="Click to see the source">
+		</picture>
+	</a>
+	<br>
+</div>
+<br>
+<br>
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p style="font-weight: bold; font-size: 20px">Seja bem vindo, pegue um café ☕</p>
@@ -18,6 +31,8 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
+<br>
+<br>
 <br>
 
 Já trabalhei/estudei várias tecnologias:<br><br>

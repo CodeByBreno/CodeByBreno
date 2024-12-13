@@ -5,20 +5,20 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-👨‍💻 Breno Gabriel<br>
-🎓 Estudante de Engenharia de Computação - UNIVASF<br>
-🛠️ Back-end com Node/Express na startup Autocenter<br>
-🚀 Membro do Setor de Eletrônica na CACTUS Rockets Design<br>
-💡 Interessado em APIs, Mobile, IoT e software no geral<br>
-📞 Contatos: ⤵️ <br>
+### 👨‍💻 Breno Gabriel<br>
+### 🎓 Estudante de Engenharia de Computação - UNIVASF<br>
+### 🛠️ Back-end com Node/Express na startup Autocenter<br>
+### 🚀 Membro do Setor de Eletrônica na CACTUS Rockets Design<br>
+### 💡 Interessado em APIs, Mobile, IoT e software no geral<br>
+### 📞 Contatos: ⤵️ <br>
 
 <p align="left">
   <a href="mailto:bbbgab123@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail" height="40px"/></a>
   <a href="https://www.linkedin.com/in/breno-gabriel-de-souza-coelho-b43565208/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" height="40px"/></a>
   <a href="https://instagram.com/_bgab?igshid=ZDdkNTZiNTM=" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram" height="40px"/></a>
 </p>
 
 <br>
@@ -47,7 +47,7 @@ Já trabalhei/estudei várias tecnologias:<br><br>
 	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
 		<picture>
 		  <source media="(min-width: 720px)" srcset="header.svg">
-		  <img src="header-mobile.svg" width="800" height="200">
+		  <img src="header-mobile.svg" width="100%">
 		</picture>
 	</a>
 	<br>

@@ -12,37 +12,34 @@
 					background:#00BFB2;
 				}
 
+				@keyframes moveWords {
+					0% {
+						transform: translateX(100px); 
+					}
+					100% {
+						transform: translateX(-100px);
+					}
+				}
+
 				.name {
-					font-size: 35px;
+					font-size: 28px;
 					font-weight: bold;
 					padding: 0;
 					margin: 0;
 					margin-bottom: -10px;
-					transition: font-size 0.3s ease; /* Adiciona a transição suave */
-				}
-
-				.name:hover {
-					font-size: 36px; /* Aumenta o tamanho da fonte no hover */
+					animation: moveWords 3s infinite linear;
 				}
 
 				.second_color {
 					color: #22333B;
 				}
 
-				.column1 {
-					width: 33%;
-				}
-
-				.column2 {
-					width: 33%;
-				}
-
-				.column3 {
-					width: 33%;
+				.column{
+					width: 40%;
 				}
 			</style>
 			<div class="container">
-				<div class="column1">
+				<div class="column">
 					<p class="name">Code By Breno</p>
 					<p class="name second_color">Code By Breno</p>
 					<p class="name">Code By Breno</p>
@@ -50,9 +47,10 @@
 					<p class="name">Code By Breno</p>
 					<p class="name second_color">Code By Breno</p>
 					<p class="name">Code By Breno</p>
+					<p class="name second_color">Code By Breno</p>
 					<p class="name">Code By Breno</p>
 				</div>
-				<div class="column2">
+				<div class="column">
 					<p class="name">Code By Breno</p>
 					<p class="name second_color">Code By Breno</p>
 					<p class="name">Code By Breno</p>
@@ -60,9 +58,10 @@
 					<p class="name">Code By Breno</p>
 					<p class="name second_color">Code By Breno</p>
 					<p class="name">Code By Breno</p>
+					<p class="name second_color">Code By Breno</p>
 					<p class="name">Code By Breno</p>
 				</div>
-				<div class="column3">
+				<div class="column">
 					<p class="name">Code By Breno</p>
 					<p class="name second_color">Code By Breno</p>
 					<p class="name">Code By Breno</p>
@@ -70,6 +69,29 @@
 					<p class="name">Code By Breno</p>
 					<p class="name second_color">Code By Breno</p>
 					<p class="name">Code By Breno</p>
+					<p class="name second_color">Code By Breno</p>
+					<p class="name">Code By Breno</p>
+				</div>
+				<div class="column">
+					<p class="name">Code By Breno</p>
+					<p class="name second_color">Code By Breno</p>
+					<p class="name">Code By Breno</p>
+					<p class="name second_color">Code By Breno</p>
+					<p class="name">Code By Breno</p>
+					<p class="name second_color">Code By Breno</p>
+					<p class="name">Code By Breno</p>
+					<p class="name second_color">Code By Breno</p>
+					<p class="name">Code By Breno</p>
+				</div>
+				<div class="column">
+					<p class="name">Code By Breno</p>
+					<p class="name second_color">Code By Breno</p>
+					<p class="name">Code By Breno</p>
+					<p class="name second_color">Code By Breno</p>
+					<p class="name">Code By Breno</p>
+					<p class="name second_color">Code By Breno</p>
+					<p class="name">Code By Breno</p>
+					<p class="name second_color">Code By Breno</p>
 					<p class="name">Code By Breno</p>
 				</div>
 			</div>

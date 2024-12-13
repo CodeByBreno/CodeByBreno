@@ -1,9 +1,24 @@
-<h2 align="center">Breno Gabriel</h2>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p style="font-weight: bold; font-size: 20px">Seja bem vindo, pegue um café ☕</p>
+
+👨‍💻 Breno Gabriel<br>
+🎓 Estudante de Engenharia de Computação - UNIVASF<br>
+🛠️ Back-end com Node/Express na startup Autocenter<br>
+🚀 Membro do Setor de Eletrônica na CACTUS Rockets Design<br>
+💡 Interessado em APIs, Mobile, IoT e software no geral<br>
+📞 Contatos: ⤵️ <br>
+
+<p align="left">
+  <a href="mailto:bbbgab123@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/breno-gabriel-de-souza-coelho-b43565208/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/_bgab?igshid=ZDdkNTZiNTM=" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
 <br>
-<p align="center">Engenharia de Computação - UNIVASF</p>
-<p align="center">Back-end com Node/Express na startup Autocenter</p>
-<p align="center">Membro do Setor de Eletrônica na CACTUS Rockets Design</p>
-<p align="center">Interessado em API's, Mobile, IoT e software no geral</p>
 
 Já trabalhei/estudei várias tecnologias:<br><br>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=40>
@@ -21,14 +36,4 @@ Já trabalhei/estudei várias tecnologias:<br><br>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height=40>
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" height=40>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height=40>
-
-<strong>Contatos/Contacts</strong>
-<br><br>
-<a href="https://instagram.com/_bgab?igshid=ZDdkNTZiNTM=">
-  <img src="https://github.com/user-attachments/assets/fef5a174-8958-4400-8293-e85e8acfbdf7" height=40>
-</a>
-<img width=10>
-<a href="https://www.linkedin.com/in/breno-gabriel-de-souza-coelho-b43565208/">
-  <img src="https://github.com/user-attachments/assets/811e0c66-82fb-4de5-b213-c0b4fa3bb5d9" height=40>
-</a> 
 

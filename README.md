@@ -1,16 +1,3 @@
-<div align="center">
-	<br>
-	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
-		<picture>
-		  <source media="(min-width: 720px)" srcset="header.svg">
-		  <img src="header-mobile.svg" width="800" height="200">
-		</picture>
-	</a>
-	<br>
-</div>
-<br>
-<br>
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p style="font-weight: bold; font-size: 20px">Seja bem vindo, pegue um café ☕</p>
@@ -52,3 +39,15 @@ Já trabalhei/estudei várias tecnologias:<br><br>
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" height=40>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height=40>
 
+<div align="center">
+	<br>
+	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+		<picture>
+		  <source media="(min-width: 720px)" srcset="header.svg">
+		  <img src="header-mobile.svg" width="800" height="200">
+		</picture>
+	</a>
+	<br>
+</div>
+<br>
+<br>

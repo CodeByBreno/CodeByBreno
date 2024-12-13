@@ -1,8 +1,5 @@
 <h2 align="center">Breno Gabriel</h2>
 <br>
-<br>
-<br>
-
 <p align="center">Engenharia de Computação - UNIVASF</p>
 <p align="center">Back-end com Node/Express na startup Autocenter</p>
 <p align="center">Membro do Setor de Eletrônica na CACTUS Rockets Design</p>

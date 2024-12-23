@@ -6,10 +6,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### 👨‍💻 Breno Gabriel<br>
-### 🎓 Estudante de Engenharia de Computação - UNIVASF<br>
-### 🛠️ Back-end com Node/Express na startup Autocenter<br>
-### 🚀 Membro do Setor de Eletrônica na CACTUS Rockets Design<br>
-### 💡 Interessado em APIs, Mobile, IoT e software no geral<br>
+### 🎓 Engenharia de Computação - UNIVASF<br>
+### 🛠️ Back-end com Node/Express<br>
+### 🚀 Eletrônica na CACTUS Rockets Design<br>
+### 💡 Sempre buscando mais conhecimento<br>
 ### 📞 Contatos: ⤵️ <br>
 
 <p align="left">

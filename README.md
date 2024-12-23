@@ -7,7 +7,7 @@
 
 ### 👨‍💻 Breno Gabriel<br>
 ### 🎓 Engenharia de Computação - UNIVASF<br>
-### 🛠️ Back-end com Node/Express<br>
+### 🖥️ Back-end com Node/Express<br>
 ### 🚀 Eletrônica na CACTUS Rockets Design<br>
 ### 💡 Sempre buscando mais conhecimento<br>
 ### 📞 Contatos: ⤵️ <br>

@@ -21,8 +21,6 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram" height="40px"/></a>
 </p>
 
-<br>
-
 ### Estou atualmente trabalhando com:
 
 <p>

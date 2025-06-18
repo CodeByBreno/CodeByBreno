@@ -7,9 +7,9 @@
 
 🙋 Breno Gabriel<br>
 🎓 Engenharia de Computação - UNIVASF<br>
-🖥️ Atualmente trabalhando com desenvolvimento backend usando Express/TypeORM e Nest.js/Prisma<br>
-🤖 Também atuando em um projeto de pesquisa com CNN's e modelos de regressão para análise de imagens multiespectrais de drones<br>
-🚀 Tive experiência com eletrônica e embarcados na CACTUS Rockets Design<br>
+🖥️ Trabalho com desenvolvimento backend usando Express/TypeORM e Nest.js/Prisma<br>
+🤖 Também atuando em projeto de pesquisa com CNN's e modelos de regressão para análise de imagens multiespectrais de drones<br>
+🚀 Experiência com eletrônica e embarcados na CACTUS Rockets Design<br>
 💡 Sempre buscando mais conhecimento<br>
 📞 Contatos: ⤵️ <br>
 

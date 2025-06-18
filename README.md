@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram" height="30px"/></a>
 </p>
 
-### Estou atualmente trabalhando com:
+### Atualmente trabalhando com:
 
 <p>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30px">
@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" height="30px">
 </p>
 
-### Também já trabalhei com:
+### Já trabalhei com:
 
 <p>	
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="30px">

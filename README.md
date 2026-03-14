@@ -1,9 +1,7 @@
-Desenvolvedor de software com foco em Backend e Dados
+Hi. my name is Breno Gabriel, i'm graduating in Computer Engineer and also work with software developmemt
+My main knowledges are with embedded systems, backend development using node/nest/express, mobile app with flutter and python for general tasks
 
-- ⚙️ Desenvolvedor pleno em Nest.JS na AutocenterLTDA
-- ⚙️ Participando de projeto de construção de software para sistema de tecnologia na UNIVASF usando PHP e React
-- ⚙️ Desenvolvendo pesquisa em visão computacional e uso de CNNs com Python/Keras
-
-Possuo experiência principalmente no ambiente node.js, com TS e desenvolvimento de API's usando Express.js ou Nest.js
-Também tenho expertize em trabalhar com python, dart/flutter e react
-Paralelamente, sou entusiasta de sistemas embarcados e docência
+- ⚙️ Currently working at AutocenterLTDA startup with Nest and Node enviroment
+- ⚙️ Also working in a extension project at my university using PHP and React
+- ⚙️ Researching the usage of computer vision for nutrient detection based on multiespectral drone imagery with CNN's using Python/Keras
+- ⚙️ As a hobby, i do like to work with mobile development using flutter, embedded systems and lecture in general
